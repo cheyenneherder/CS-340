@@ -1,2 +1,14 @@
 # CS-340
-Client/Server Dev
+# Grazioso Salvare Dashboard
+Welcome to my CS-340 portfolio repository. This will showcase my work on developing a dashboard application for Grazioso Salvare, an innovative international rescue-animal training company for my CS 340 course. Below, you'll find my final dashboard code, the CRUD Python module, and a reflection on my approach to this project.
+# Project Overview
+This project involved building a dynamic, interactive dashboard that connects to a MongoDB database, retrieving and displaying data to help Grazioso Salvare identify and categorize rescue dogs. The dashboard includes a data table, geolocation chart, and additional visualizations, all of which respond to user inputs through filters.
+# How Do You Write Programs That Are Maintainable, Readable, and Adaptable?
+When writing maintainable, readable, and adaptable code, I focus on a few key principles:
+* Modularity: I break down the program into smaller, reusable components. For instance, in this project, I developed a CRUD Python module that handles database operations separately from the dashboard logic. This modular approach not only keeps the code organized but also makes it easier to reuse and adapt the module in future projects.
+* Being Clear: I ensure that variables, functions, and classes have descriptive names that convey their purpose. Additionally, I use comments to explain complex sections of the code. This practice is invaluable when revisiting code after some time or when sharing it with others.
+* Documentation: Proper documentation is crucial. In this project, the README file provides an overview of the project, instructions for setup, and insights into the design decisions. This makes the codebase accessible and understandable for future developers.
+# How Do You Approach a Problem as a Computer Scientist?
+As a computer scientist, I approach problems systematically. For this project, I started by thoroughly understanding the client’s requirements—what Grazioso Salvare needed from the dashboard. I then broke down the problem into smaller tasks: setting up the database connection, building the data table, implementing filters, and finally, creating visualizations.
+# What Do Computer Scientists Do, and Why Does It Matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists solve real-world problems by designing and implementing software that meets the needs of users. In this project, my work helps Grazioso Salvare streamline their process of identifying rescue dogs, ultimately enabling them to train and deploy these dogs more effectively in life-saving operations. The dashboard I developed serves as a tool for decision-making, allowing the company to filter and visualize data quickly. This kind of work not only improves efficiency but also has a tangible impact on the company’s mission to save lives. This project highlights the importance of user-centric design and the power of data-driven decision-making in the field of computer science.
